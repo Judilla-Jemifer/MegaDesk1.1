@@ -11,3 +11,6 @@ C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\Me
 C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.exe
 C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.pdb
 C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\bin\Debug\MegaDesk1.1JemiferJudilla.exe.config
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk1.1\MegaDesk-3-JemiferJudilla\bin\Debug\MegaDesk1.1JemiferJudilla.exe.config
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk1.1\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.exe
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk1.1\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.pdb
