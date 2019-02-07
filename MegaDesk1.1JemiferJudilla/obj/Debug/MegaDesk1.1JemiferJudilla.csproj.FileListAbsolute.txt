@@ -1,0 +1,13 @@
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\bin\Debug\MegaDesk1.1JemiferJudilla.exe
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\bin\Debug\MegaDesk1.1JemiferJudilla.pdb
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.csprojResolveAssemblyReference.cache
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.AddQuote.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.DisplayQuote.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.MainMenu.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.Properties.Resources.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.SearchQuotes.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk_3_JemiferJudilla.ViewAllQuotes.resources
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.csproj.GenerateResource.Cache
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.exe
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\obj\Debug\MegaDesk1.1JemiferJudilla.pdb
+C:\Users\HP14-ab111tx\Documents\NET DEV HW\MegaDesk\MegaDesk-3-JemiferJudilla\MegaDesk-3-JemiferJudilla\bin\Debug\MegaDesk1.1JemiferJudilla.exe.config
